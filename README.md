@@ -1,11 +1,12 @@
-## Hi there 👋
+## Hi Everyone 👋
 I'm **Rohan**, a passionate developer building modern applications with .NET Core and other cool technologies. 🌟
 
 ## Skills 💡
-- **Languages:** C#, Python, JavaScript, ReactJs, jQuery
+- **Languages:** C#, Python, JavaScript
 - **Frameworks:** .NET Core, MVC
+- **Library:** ReactJs, jQuery
 - **Tools:** Git, Docker, Azure
-- **Database** MS-SQL, MySQL, Oracle
+- **Database:** MS-SQL, MySQL, Oracle
 
 <!--
 **rohanpin1/rohanpin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
