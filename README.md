@@ -1,6 +1,10 @@
 ## Hi Everyone 👋
 I'm **Rohan**, a passionate developer building modern applications with .NET Core and other cool technologies. 🌟
 
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-DotNet-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+
 ## Skills 💡
 - **Languages:** C#, Python, JavaScript
 - **Frameworks:** .NET Core, MVC
