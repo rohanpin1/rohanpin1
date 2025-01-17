@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm **Rohan**, a passionate developer building modern applications with .NET Core and other cool technologies. 🌟
 
 <!--
 **rohanpin1/rohanpin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
