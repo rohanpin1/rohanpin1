@@ -1,5 +1,10 @@
 ## Hi Everyone 👋
 I'm **Rohan**, a passionate developer building modern applications with .NET Core and other cool technologies. 🌟
+🔭 I’m currently working on ASP.NET Core
+🌱 I’m currently learning advanced topics on .Net Core
+👯 I’m looking to collaboration
+💬 Ask me about my work and knowledge
+😄 Pronouns: Mr. Rohan 
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-DotNet-512BD4?style=flat-square&logo=dotnet&logoColor=white)
