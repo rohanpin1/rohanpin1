@@ -8,6 +8,9 @@ I'm **Rohan**, a passionate developer building modern applications with .NET Cor
 - **Tools:** Git, Docker, Azure
 - **Database:** MS-SQL, MySQL, Oracle
 
+## GitHub Stats 📈
+![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohanpin1&show_icons=true&theme=radical)
+
 ## Let's Connect 🌐
 - [LinkedIn](https://www.linkedin.com/in/rohan-kumawat-7b4a68247/)
 - [Portfolio](https://rrohankumawat.github.io/portfolio)
