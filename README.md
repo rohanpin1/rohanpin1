@@ -8,6 +8,9 @@ I'm **Rohan**, a passionate developer building modern applications with .NET Cor
 - **Tools:** Git, Docker, Azure
 - **Database:** MS-SQL, MySQL, Oracle
 
+## Let's Connect 🌐
+- [LinkedIn](https://www.linkedin.com/in/rohan-kumawat-7b4a68247/)
+- [Portfolio](https://rrohankumawat.github.io/portfolio)
 <!--
 **rohanpin1/rohanpin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
